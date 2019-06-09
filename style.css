@@ -1,0 +1,9 @@
+body{
+    background: linear-gradient(90deg, rgb(143, 211, 250), rgb(4, 116, 243));
+}
+.navbar-brand{
+    font-size: 30px;
+}
+main{
+    padding: 40px;
+}
